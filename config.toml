@@ -1,4 +1,4 @@
-baseURL = "https://baibaoxiang.app/"
+baseURL = "http://baibaoxiang.app/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
