@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/OmelasShell/quartz_baibaoxiang/tree/hugo/content
+GitHubLink: https://github.com/OmelasShell/baibaoxiang.app/tree/main/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
