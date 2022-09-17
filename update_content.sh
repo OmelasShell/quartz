@@ -1,18 +1,14 @@
 #!/bin/bash
 
-git status ## && git diff && git add -u && git commit -m "update content"
+git status 
 
-#read -t 5 -p "Will push after 5 seconds ..."
-sleep 5
+git diff 
 
 git add -u
 
-#read -t 5 -p "Will push after 5 seconds ..."
-sleep 5
+read -t 5 -p "Will push after 5 seconds ..."
 
 git commit -m "update content"
-
-read -t 5 -p "Will push after 5 seconds ..."
 
 git push
 
