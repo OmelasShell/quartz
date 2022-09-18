@@ -1,6 +1,6 @@
 baseURL = "https://baibaoxiang.app/"
 languageCode = "en-us"
-googleAnalytics = "G-T0ZFC834S3"
+googleAnalytics = "G-DMGW320NJG"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
